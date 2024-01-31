@@ -29,7 +29,7 @@ export default function CountApp() {
   };
   const countContainer = {
     backgroundColor: "black",
-    maxWidth: "60px",
+    maxWidth: "80px",
     margin: "auto",
     borderRadius: "10px",
   };
